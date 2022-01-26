@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QUdpSocket>
+#include <QDebug>
 #include "data_group.h"
 
 QT_BEGIN_NAMESPACE
